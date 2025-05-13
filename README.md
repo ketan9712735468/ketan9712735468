@@ -44,9 +44,9 @@ AI system to simulate a human conversation over voice calls using real-time tran
 
 ## 📬 Let’s Connect
 
-- 📧 Email: `yourname@example.com`  
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/ketan-mangukiya-b47a78200)  
-- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/ketan9712735468)  
+- 📧 Email: `ketanmangukiya001@gmail.com`  
+- 💼 LinkedIn: [linkedin.com/in/ketan-mangukiya-b47a78200](https://linkedin.com/in/ketan-mangukiya-b47a78200)  
+- 🧑‍💻 GitHub: [github.com/ketan9712735468](https://github.com/ketan9712735468)  
 
 ---
 
